@@ -76,7 +76,7 @@ p {
 
 /*Placed the css selectors for the h2 section up higher so it follows the html*/
 /*Merged the 3 classes into one selector*/
-.search-engine-optimization, .online-reputation-management, .social-media-marketing {
+.optimize {
     margin-bottom: 20px;
     padding: 50px;
     height: 300px;
@@ -86,12 +86,12 @@ p {
 }
 
 /*Merged the 3 classes targeting the img into one selector*/
-.search-engine-optimization img, .online-reputation-management img, .social-media-marketing  img {
+.optimize img {
     max-height: 200px;
 }
 
 /*Merged the 3 classes targeting the h2 element into one selector*/
-.search-engine-optimization h2, .online-reputation-management h2, .social-media-marketing h2 {
+.optimize h2 {
     margin-bottom: 20px;
     font-size: 36px;
 }
