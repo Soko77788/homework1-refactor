@@ -21,8 +21,10 @@ https://soko77788.github.io/homework1-refactor/
 Code snippet of the main image of the project.
 
 ```html
+
 <figure>
         <img class="hero" src="./assets/images/digital-marketing-meeting.jpg" alt="Digital Marketing Meeting" />
     </figure>
 ```
-![Digital Marketing Meeting](./images/digital-marketing-meeting.jpg)
+
+![Digital Marketing Meeting](./assets/images/digital-marketing-meeting.jpg)
