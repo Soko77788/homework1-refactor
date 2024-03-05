@@ -18,7 +18,7 @@ Link to deployed website.
 
 https://soko77788.github.io/homework1-refactor/
 
-Screenshots of deployed URL and Website Preview
+Code snippet of the main image of the project.
 
 ```html
 <figure>
